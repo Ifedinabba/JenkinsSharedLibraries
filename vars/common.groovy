@@ -1,5 +1,3 @@
-@Library('Sizamtek_Sharedlibs') _
-
 def call(String stageName){
   
   if ("${stageName}" == "Build")
